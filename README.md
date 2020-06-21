@@ -1,4 +1,4 @@
-# nimi-projet-Sudoku-Java
+# mini-projet-Sudoku-Java
 Le projet choisi pour le cours de java est un des projet proposé le sudoku. 
 Le but de ce projet était de développer le Jeu Sudoku et en particulier 6 fonctionnalité:
 
