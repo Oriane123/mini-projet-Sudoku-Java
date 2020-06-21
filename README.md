@@ -17,3 +17,4 @@ La cinquième était d’implémenter une aide, celle ci est lancé avec la touc
 
 La dernière était d'afficher la grille en cas d'abandon, en appuyant donc sur ECHAP la grille correctement remplie s'affiche. 
 
+Un executable se trouve dans le dossier Sudoku
